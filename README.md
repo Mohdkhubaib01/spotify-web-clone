@@ -2,7 +2,9 @@
 
 A responsive Spotify homepage clone built using HTML, CSS This project mimics the layout and basic functionality of Spotify's user interface for learning and practice purposes.
 
-![Spotify Clone Screenshot](screenshot.png)
+![Spotify Clone Screenshot](src/img1.png)
+![Spotify Clone Screenshot](src/img2.png)
+
 
 ---
 
