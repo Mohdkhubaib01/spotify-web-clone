@@ -52,12 +52,6 @@ spotify-clone/
 
 ---
 
-## 📸 Screenshots
-
-_Add a screenshot or short demo gif here (optional)_
-
----
-
 ## 🚀 Features (Built Using HTML & CSS Only)
 
 - 🎨 Clean and responsive UI layout
